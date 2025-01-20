@@ -1,28 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Moon</title>
-  <link rel="stylesheet" href="screen.css">
-</head>
-<body>
-  <div class="container">
-    <nav>
-      <a href="index.html" class="active">Earth</a>
-      <a href="about.html" class="active">Moon</a>
-    </nav>
-    <main>
-      <h1>Moon</h1>
-      <p> <!-- AI Tool: ChatGPT. Prompt: "give me a funny description of the moon, sound like a college kid using slang." -->
-        Yo, the Moon is basically Earth’s ride-or-die. It’s been chillin’ up there for like 4.5 billion years, looking all mysterious and lighting up our late-night hangs. It’s got mad craters from getting smacked by space rocks—talk about taking hits for the team. The Moon also flexes hard by controlling Earth’s tides, like, "Yeah, I move oceans, no biggie." And don’t even get me started on those phases—pulling off a glow-up every month? Iconic. Sure, it’s got no WiFi or atmosphere, but the vibes? Immaculate.
-      </p>
-      <div class="circle-container">
-        <img src="earth 1.jpg" alt="Earth Icon" class="circle">
-        <img src="moon.jpg" alt="Moon Icon" class="circle small">
-      </div>
-    </main>
-  </div>
-</body>
-</html>
+
 // Add JavaScript below
